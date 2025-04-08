@@ -30,6 +30,8 @@ Age: Age of the patient.
 
 Outcome: Whether the patient is diabetic (1) or not (0).
 
+---
+
 ##Requirements
 This project requires the following Python libraries:
 
@@ -48,10 +50,15 @@ You can install these libraries using pip if they are not already installed:
 bash
 Copy
 pip install pandas numpy matplotlib seaborn scikit-learn
+
+---
+
 Project Structure
 Project Final LATEST.ipynb: This Jupyter Notebook contains the entire analysis pipeline, from data preprocessing and exploratory data analysis (EDA) to training and evaluating machine learning models.
 
 Dataset: The dataset is expected to be downloaded manually from Kaggle, as the link provided.
+
+---
 
 ##Workflow
 Data Preprocessing: The dataset is cleaned by handling missing values, encoding categorical variables (if any), and normalizing the numerical features.
