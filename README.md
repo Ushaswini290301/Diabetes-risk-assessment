@@ -28,10 +28,10 @@ The dataset contains several medical variables that may have a significant influ
 
 ## Files in the Repository
 
-1. **`Project Final LATEST.ipynb`**  
+1. **`Diabetes risk assessment.ipynb`**  
    This Jupyter Notebook contains the entire analysis pipeline, from data preprocessing and exploratory data analysis (EDA) to training and evaluating machine learning models. The notebook provides a step-by-step walkthrough of the process, including data cleaning, visualization, model selection, and performance evaluation.
 
-2. **`Final Report.pdf`**  
+2. **`Report.pdf`**  
    This document provides a comprehensive report explaining the project's methodology, results, and insights. It includes detailed explanations of the data preprocessing steps, model selection, evaluation metrics, and key findings from the analysis. 
 
 ---
