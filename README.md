@@ -1,10 +1,11 @@
 # Diabetes-risk-assessment
 Diabetes Prediction Project
-##Project Overview
+#Project Overview
 This project focuses on predicting the likelihood of diabetes in patients based on a set of numeric and categorical variables. The dataset used for this project is sourced from Kaggle, and the analysis and machine learning models are developed using Python in a Jupyter Notebook.
 
 The primary objective of this project is to build a predictive model that can classify whether a patient is diabetic or not based on various features, such as glucose level, blood pressure, and BMI.
 
+---
 ##Dataset
 The dataset is publicly available on Kaggle and can be accessed using the following link:
 Diabetes Prediction Dataset on Kaggle
