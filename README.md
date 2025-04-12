@@ -86,6 +86,14 @@ This project requires the following Python libraries:
 - `seaborn`
 - `scikit-learn`
 
+## Contributors
+Ushaswini Sunkara
+Lahari Kaja
+Joseph Anifowose
+Kalp Patel
+Eeshani Shah
+
+
 You can install these libraries using pip if they are not already installed:
 
 ```bash
